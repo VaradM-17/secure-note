@@ -1,14 +1,13 @@
-package com.varad.secure.note;
+package com.varad.secure.notes;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class NoteApplication {
+public class NotesApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(NoteApplication.class, args);
-        System.out.println("Application Started");
+		SpringApplication.run(NotesApplication.class, args);
 	}
 
 }

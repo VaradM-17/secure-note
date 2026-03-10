@@ -1,10 +1,10 @@
-package com.varad.secure.note;
+package com.varad.secure.notes;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class NoteApplicationTests {
+class NotesApplicationTests {
 
 	@Test
 	void contextLoads() {
